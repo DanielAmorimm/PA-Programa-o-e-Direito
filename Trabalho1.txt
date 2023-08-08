@@ -1,0 +1,45 @@
+Centro Universitário Ibmec
+Programação e Direito
+Docente: Eduardo Freitas Mangeli de Brito
+Discente: Daniel Corbett Amorim
+1. Banco de Dados: Coleção organizada de dados, composto de um ou vários
+arquivos, armazenados de forma a estarem rapidamente acessíveis por um
+computador. De forma a facilitar o acesso, armazenamento e recuperação de
+dados em diferentes operações.
+
+2. Zero-Rating: Classificação dada por um provedor de internet quando se
+aplica um preço de zero para operações de trafego de dados associada a uma
+determinada aplicação, ou classe de aplicações. Sendo assim, não se utilizaria
+a franquia de um determinado plano de internet para determinadas operações.
+Zero-Rating tem sido alvo de controvérsias, tendo em vista sua postura
+problemática quando se discute a Neutralidade de Rede. O Zero-Rating pode
+acabar por condicionar o acesso de usuários de menor poder aquisitivo
+somente a determinados sites, ferindo a isonomia no acesso igualitário à
+informação, já que favorece o acesso á determinado tipo de conteúdo.
+
+
+3. Neutralidade de Rede: Princípio que abrange uma discussão acerca da
+governança da internet ao redor do mundo. Revela uma posição de defesa ao
+tratamento do trafego da internet, que deve ocorrer de maneira uniforme e sem
+favorecimentos a interesses comerciais.
+
+4. Inteligência Artificial: Habilidade de um computador ou um robô que
+controla um computador de realizar tarefas geralmente realizadas por sereshumanos. Comumente utilizado para descrever o desenvolvimento de sistemas
+com capacidade intelectual de humanos.5
+
+5. Nuvem: Termo usado para descreve tecnologia que permite o
+armazenamento de dados e arquivos de forma remota através do acesso à
+internet. Tudo o que é transferido para armazenamento em nuvem se torna
+responsabilidade do provedor de tal serviço, que deve administrar, proteger,
+hospedar e realizar a manutenção dos servidores e infraestrutura que permite o
+acesso ao material a qualquer momento.
+
+
+1 DATABASE. In Encyclopedia Britannica
+2 What is Zero Ratin? Body of European Regulations
+3 GIGANTE, Natália. Neutralidade de Rede, zero-rating e desinformação: Uma
+discussão que merece ser reaquecida. Migalhas, 2022
+4 VALENTE, Jonas. Entenda o que é neutralidade de rede e como é o seu
+funcionamento no Brasil. Agência Brasil, 2017
+5 ARTIFICIAL INTELLIGENCE. In Encyclopedia Britannica
+6 What is Cloud Storage? IBM
