@@ -42,4 +42,12 @@ discussão que merece ser reaquecida. Migalhas, 2022
 4 VALENTE, Jonas. Entenda o que é neutralidade de rede e como é o seu
 funcionamento no Brasil. Agência Brasil, 2017
 5 ARTIFICIAL INTELLIGENCE. In Encyclopedia Britannica
+MPF apura denúncia sobre uso de algorítimo para analíse de crédito
+1- Segundo a denúncia, o algoritmo seria responsável por uma taxa elevada de indeferimento de benefícios, ignorando informações importantes como tempo de contribuição e a necessidade do trabalhador. Além disso, teria sido desenvolvido sem transparência, sem consulta a especialistas e sem publicidade sobre seus critérios de funcionamento. Diante disso, o MPF defende que o INSS revise as decisões de aposentadoria já negadas pelo algoritmo e suspenda a utilização do sistema até que sejam esclarecidos todos os seus aspectos. O objetivo é garantir que os cidadãos tenham acesso justo aos seus direitos previdenciários, evitando que o algoritmo prejudique quem tem direito a uma aposentadoria.
+2- Sim, é comum que empresas que concedem crédito usem algoritmos para realizar análises de crédito, a fim de avaliar o risco de inadimplência dos clientes antes de aprovar um empréstimo ou cartão de crédito, por exemplo. No entanto, a negativa de crédito precisa ser justificada. De acordo com o Código de Defesa do Consumidor (CDC), as empresas devem informar aos clientes os motivos que levaram à negativa de crédito, além de fornecer um documento que comprove a recusa do crédito.
+3- Uma rede neural artificial é um modelo computacional inspirado na estrutura e no funcionamento do cérebro humano. É composta por camadas de neurônios artificiais que realizam operações matemáticas em dados de entrada, a fim de produzir uma saída que represente a resposta desejada.
+Cada camada de neurônios é composta por um conjunto de unidades que recebem entradas ponderadas e as processam através de uma função de ativação não-linear, gerando uma saída que é enviada para a próxima camada. Dessa forma, as redes neurais artificiais são capazes de aprender padrões complexos em grandes conjuntos de dados e realizar tarefas como classificação, previsão e reconhecimento de padrões.
+Existem diferentes arquiteturas de redes neurais artificiais, como redes totalmente conectadas (ou densas), redes convolucionais e redes recorrentes. Cada uma delas é adequada para diferentes tipos de problemas e tarefas de aprendizado de máquina.
+
+
 6 What is Cloud Storage? IBM
