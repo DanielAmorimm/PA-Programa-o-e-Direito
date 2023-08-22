@@ -2,6 +2,7 @@ Centro Universitário Ibmec
 Programação e Direito
 Docente: Eduardo Freitas Mangeli de Brito
 Discente: Daniel Corbett Amorim
+
 1. Banco de Dados: Coleção organizada de dados, composto de um ou vários
 arquivos, armazenados de forma a estarem rapidamente acessíveis por um
 computador. De forma a facilitar o acesso, armazenamento e recuperação de
@@ -42,6 +43,8 @@ discussão que merece ser reaquecida. Migalhas, 2022
 4 VALENTE, Jonas. Entenda o que é neutralidade de rede e como é o seu
 funcionamento no Brasil. Agência Brasil, 2017
 5 ARTIFICIAL INTELLIGENCE. In Encyclopedia Britannica
+6 What is Cloud Storage? IBM
+
 MPF apura denúncia sobre uso de algorítimo para analíse de crédito
 1- Segundo a denúncia, o algoritmo seria responsável por uma taxa elevada de indeferimento de benefícios, ignorando informações importantes como tempo de contribuição e a necessidade do trabalhador. Além disso, teria sido desenvolvido sem transparência, sem consulta a especialistas e sem publicidade sobre seus critérios de funcionamento. Diante disso, o MPF defende que o INSS revise as decisões de aposentadoria já negadas pelo algoritmo e suspenda a utilização do sistema até que sejam esclarecidos todos os seus aspectos. O objetivo é garantir que os cidadãos tenham acesso justo aos seus direitos previdenciários, evitando que o algoritmo prejudique quem tem direito a uma aposentadoria.
 2- Sim, é comum que empresas que concedem crédito usem algoritmos para realizar análises de crédito, a fim de avaliar o risco de inadimplência dos clientes antes de aprovar um empréstimo ou cartão de crédito, por exemplo. No entanto, a negativa de crédito precisa ser justificada. De acordo com o Código de Defesa do Consumidor (CDC), as empresas devem informar aos clientes os motivos que levaram à negativa de crédito, além de fornecer um documento que comprove a recusa do crédito.
@@ -50,4 +53,16 @@ Cada camada de neurônios é composta por um conjunto de unidades que recebem en
 Existem diferentes arquiteturas de redes neurais artificiais, como redes totalmente conectadas (ou densas), redes convolucionais e redes recorrentes. Cada uma delas é adequada para diferentes tipos de problemas e tarefas de aprendizado de máquina.
 
 
-6 What is Cloud Storage? IBM
+
+
+
+Fabricantes de processadores: Intel, AMD, Qualcomm, Samsung, Broadcom, Apple, nvidia, Mediatek, HiSillicon.
+
+1- A LGPD impõe padrões a serem seguidos no que diz respeito ao tratamento de dados no Brasil, de modo a impactar diretamente os Data Centers. Estes deverão passar a de adequar à s normas estabelecidas pela LGPD, graças os mecânimos técnicos e jurídcios por ela estabelecido. A LGPD, para além das novas regras, estabeleceu a ANPD (agência nacional de proteção de dados), que deverá, entre outras coisas, fiscalizar os agentes públicos e privados em sua tratativa de dados pessoais sensíveis.
+
+2- a) Arquivos de formato aberto: PNG, FLAC, WebM, HTML, gzip, CSS. 
+Arquivos de fomato proprietário: CDR, DWG, AD, PSD, RAR, WMA.
+
+b) Dados públicos são informações que foram coletadas, geradas ou financiadas pelo governo ou por organizações sem fins lucrativos com financiamento público e estão disponíveis para consulta e uso por qualquer pessoa, sem restrições ou necessidade de autorização específica. Esses dados podem ser de diferentes tipos, como dados estatísticos, dados geográficos, dados sobre orçamento e gastos públicos, entre outros. A disponibilidade de dados públicos é importante para garantir a transparência e a accountability do governo, permitindo que a sociedade possa monitorar e fiscalizar suas ações e decisões. Além disso, esses dados podem ser utilizados para a criação de políticas públicas mais eficientes e para o desenvolvimento de soluções inovadoras em diferentes áreas, como saúde, educação, transporte e meio ambiente.
+
+
