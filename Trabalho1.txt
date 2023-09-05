@@ -68,13 +68,7 @@ b) Dados públicos são informações que foram coletadas, geradas ou financiada
 - Python:
 Python é uma linguagem de programação interpretada, de alto nível e geralmente considerada fácil de aprender. É frequentemente usada em ciência de dados, inteligência artificial, web scraping, automação de tarefas e desenvolvimento web.
 
-Esse código cria uma palavra cruzada:
-
-#import crossword
-
-palavras = ['python', 'java', 'c++', 'ruby', 'javascript']
-puzzle = crossword.generate(palavras)
-crossword.print_puzzle(puzzle)
+print('Hello, world!')
 
            
 
@@ -83,62 +77,23 @@ crossword.print_puzzle(puzzle)
 2- Java:
 Java é uma linguagem de programação compilada, de alto nível e orientada a objetos. É amplamente utilizada no desenvolvimento de aplicativos empresariais, jogos e aplicativos móveis.
 
-Esse código é capaz de encontrar anagramas em qualquer palavra:
-
-import java.util.*;
-
-public class AnagramFinder {
+public class HelloWorld {
     public static void main(String[] args) {
-        Scanner input = new Scanner(System.in);
-        System.out.print("Digite uma palavra: ");
-        String palavra = input.nextLine();
-        List<String> anagramas = encontrarAnagramas(palavra);
-        System.out.println("Anagramas de " + palavra + ": " + anagramas);
-    }
-
-    public static List<String> encontrarAnagramas(String palavra) {
-        List<String> anagramas = new ArrayList<>();
-        if (palavra == null || palavra.isEmpty()) {
-            return anagramas;
-        }
-        encontrarAnagramas("", palavra, anagramas);
-        return anagramas;
-    }
-
-    private static void encontrarAnagramas(String prefixo, String sufixo, List<String> anagramas) {
-        if (sufixo.isEmpty()) {
-            anagramas.add(prefixo);
-        } else {
-            for (int i = 0; i < sufixo.length(); i++) {
-                encontrarAnagramas(prefixo + sufixo.charAt(i), sufixo.substring(0, i) + sufixo.substring(i + 1), anagramas);
-            }
-        }
+        System.out.println("Hello, World!");
     }
 }
+Neste exemplo Java, criamos uma classe cham
 
 ===================================================================================================================================================================================================================================
 3- C++:  uma linguagem de programação de propósito geral, de alto desempenho e de baixo nível, usada em muitas áreas, como sistemas operacionais, jogos, aplicativos de desktop, dispositivos móveis e desenvolvimento de software de sistema. É conhecida por seu controle preciso do hardware.
 
-
-
-
 #include <iostream>
-#include <vector>
-#include <cstdlib>
-#include <ctime>
-using namespace std;
 
-const int LARGURA = 10;
-const int ALTURA = 10;
+int main() {
+    std::cout << "Hello, World!" << std::endl;
+    return 0;
 
-void criarLabirinto(vector<vector<int>>& labirinto) {
-    srand(time(NULL));
-    for (int i = 0; i < ALTURA; i++) {
-        vector<int> linha(LARGURA);
-        for (int j = 0; j < LARGURA; j++) {
-            if (i == 0 || i == ALTURA - 1 || j == 0 || j == LARGURA - 1) {
-                linha[j] = 1;
-            } else {
-                linha[j] = rand() % 2;
+
+
            
 
