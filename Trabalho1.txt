@@ -82,7 +82,6 @@ public class HelloWorld {
         System.out.println("Hello, World!");
     }
 }
-Neste exemplo Java, criamos uma classe cham
 
 ===================================================================================================================================================================================================================================
 3- C++:  uma linguagem de programação de propósito geral, de alto desempenho e de baixo nível, usada em muitas áreas, como sistemas operacionais, jogos, aplicativos de desktop, dispositivos móveis e desenvolvimento de software de sistema. É conhecida por seu controle preciso do hardware.
