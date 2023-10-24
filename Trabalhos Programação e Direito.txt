@@ -64,12 +64,12 @@ Trabalho Semana 3
 
 Fabricantes de processadores: Intel, AMD, Qualcomm, Samsung, Broadcom, Apple, nvidia, Mediatek, HiSillicon.
 
-1- A LGPD impõe padrões a serem seguidos no que diz respeito ao tratamento de dados no Brasil, de modo a impactar diretamente os Data Centers. Estes deverão passar a de adequar à s normas estabelecidas pela LGPD, graças os mecânimos técnicos e jurídcios por ela estabelecido. A LGPD, para além das novas regras, estabeleceu a ANPD (agência nacional de proteção de dados), que deverá, entre outras coisas, fiscalizar os agentes públicos e privados em sua tratativa de dados pessoais sensíveis.
+1- a) A LGPD impõe padrões a serem seguidos no que diz respeito ao tratamento de dados no Brasil, de modo a impactar diretamente os Data Centers. Estes deverão passar a de adequar à s normas estabelecidas pela LGPD, graças os mecânimos técnicos e jurídcios por ela estabelecido. A LGPD, para além das novas regras, estabeleceu a ANPD (agência nacional de proteção de dados), que deverá, entre outras coisas, fiscalizar os agentes públicos e privados em sua tratativa de dados pessoais sensíveis.
 
-2- a) Arquivos de formato aberto: PNG, FLAC, WebM, HTML, gzip, CSS. 
+b.1) Arquivos de formato aberto: PNG, FLAC, WebM, HTML, gzip, CSS. 
 Arquivos de fomato proprietário: CDR, DWG, AD, PSD, RAR, WMA.
 
-b) Dados públicos são informações que foram coletadas, geradas ou financiadas pelo governo ou por organizações sem fins lucrativos com financiamento público e estão disponíveis para consulta e uso por qualquer pessoa, sem restrições ou necessidade de autorização específica. Esses dados podem ser de diferentes tipos, como dados estatísticos, dados geográficos, dados sobre orçamento e gastos públicos, entre outros. A disponibilidade de dados públicos é importante para garantir a transparência e a accountability do governo, permitindo que a sociedade possa monitorar e fiscalizar suas ações e decisões. Além disso, esses dados podem ser utilizados para a criação de políticas públicas mais eficientes e para o desenvolvimento de soluções inovadoras em diferentes áreas, como saúde, educação, transporte e meio ambiente.
+b.2) Dados públicos são informações que foram coletadas, geradas ou financiadas pelo governo ou por organizações sem fins lucrativos com financiamento público e estão disponíveis para consulta e uso por qualquer pessoa, sem restrições ou necessidade de autorização específica. Esses dados podem ser de diferentes tipos, como dados estatísticos, dados geográficos, dados sobre orçamento e gastos públicos, entre outros. A disponibilidade de dados públicos é importante para garantir a transparência e a accountability do governo, permitindo que a sociedade possa monitorar e fiscalizar suas ações e decisões. Além disso, esses dados podem ser utilizados para a criação de políticas públicas mais eficientes e para o desenvolvimento de soluções inovadoras em diferentes áreas, como saúde, educação, transporte e meio ambiente.
 
 
 Trabalho Semana 4
